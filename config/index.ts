@@ -8,7 +8,7 @@ export const APP_INFO: AppInfo = {
   description: 'test 1',
   copyright: '',
   privacy_policy: '',
-  default_language: 'en',
+  default_language: 'zh-CN',
 }
 
 export const API_PREFIX = `${process.env.NEXT_PUBLIC_API_PREFIX || '/api'}`
